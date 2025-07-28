@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Cursor
+  - HealthReg
+  - Test
+  - Explosion
+  - Bot
+  - ShowMap
+  - hs
+  - sceneMgr
+  - SpawnChunk
+  - low
+  - mobile
+  - mid
+  - pc
+  - high
+  - Effects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - HealthReg
+  - Player
+  - Enemy
+  - MAPBG
+  - Drops
+  - MPPlayer
+  - bombBot
+  - OwnCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Camera
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
